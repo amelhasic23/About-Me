@@ -14,7 +14,7 @@
 ### 🚀 About Me  
 🔹 Software engineer with experience in **Front-end & Back-end development**  
 🔹 Interested in **Mobile development, Cloud computing, and Machine Learning**  
-🔹 Passionate about **building user-friendly and efficient applications**  
+
 
 📍 Location: Sanski Most, Bosnia & Herzegovina  
 
