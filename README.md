@@ -6,7 +6,6 @@
 <p align="center">
   <a href="https://github.com/amelhasic23"><img src="https://img.shields.io/github/followers/amelhasic23?label=Follow&style=social" alt="GitHub Followers"></a>
   <a href="mailto:amelhasic23@outlook.com"><img src="https://img.shields.io/badge/Email-amelhasic23%40outlook.com-red"></a>
-
 </p>
 
 ---
@@ -14,7 +13,7 @@
 ### 🚀 About Me  
 🔹 Software engineer with experience in **Front-end & Back-end development**  
 🔹 Interested in **Mobile development, Cloud computing, and Machine Learning**  
-
+🔹 Passionate about **building user-friendly and efficient applications**  
 
 📍 Location: Sanski Most, Bosnia & Herzegovina  
 
@@ -55,6 +54,7 @@
 #### **Tools & Technologies**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)  
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)  
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)  
 
 ---
@@ -90,7 +90,7 @@
 📧 Email: [amelhasic23@outlook.com](mailto:amelhasic23@outlook.com)  
 💻 GitHub: [github.com/amelhasic23](https://github.com/amelhasic23)  
 
-
 ---
 
 🚀 *Always learning and working on exciting new projects. Let's build something great together!*
+
