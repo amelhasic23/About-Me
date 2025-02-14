@@ -6,7 +6,7 @@
 <p align="center">
   <a href="https://github.com/amelhasic23"><img src="https://img.shields.io/github/followers/amelhasic23?label=Follow&style=social" alt="GitHub Followers"></a>
   <a href="mailto:amelhasic23@outlook.com"><img src="https://img.shields.io/badge/Email-amelhasic23%40outlook.com-red"></a>
-  <a href="https://www.linkedin.com/in/amelhasic"><img src="https://img.shields.io/badge/LinkedIn-Amel%20Hasić-blue"></a>
+
 </p>
 
 ---
@@ -17,6 +17,18 @@
 
 
 📍 Location: Sanski Most, Bosnia & Herzegovina  
+
+---
+
+### 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amelhasic23&show_icons=true&theme=radical" alt="Amel's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amelhasic23&layout=compact&theme=radical" alt="Most Used Languages" />
+</p>
 
 ---
 
@@ -77,7 +89,7 @@
 ### 📫 Connect with Me  
 📧 Email: [amelhasic23@outlook.com](mailto:amelhasic23@outlook.com)  
 💻 GitHub: [github.com/amelhasic23](https://github.com/amelhasic23)  
-🌍 LinkedIn: [linkedin.com/in/amelhasic](https://www.linkedin.com/in/amelhasic)  
+
 
 ---
 
