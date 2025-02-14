@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Amel Hasić! 👋</h1>
 <p align="center">
-  <i>Software Engineer | Front-end & Back-end Developer | Passionate about Cloud & AI</i>
+  <i>Software Engineer</i>
 </p>
 
 <p align="center">
