@@ -22,11 +22,15 @@
 ### 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amelhasic23&show_icons=true&theme=radical" alt="Amel's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=amelhasic23&show_icons=true&theme=radical&count_private=true&cache_seconds=86400" alt="Amel's GitHub Stats" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amelhasic23&layout=compact&theme=radical" alt="Most Used Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amelhasic23&theme=radical" alt="GitHub Profile Summary" />
 </p>
 
 ---
@@ -86,7 +90,7 @@
 
 ---
 
-### 📫 Connect with Me  
+### 💌 Connect with Me  
 📧 Email: [amelhasic23@outlook.com](mailto:amelhasic23@outlook.com)  
 💻 GitHub: [github.com/amelhasic23](https://github.com/amelhasic23)  
 
