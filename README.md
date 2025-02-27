@@ -22,11 +22,11 @@
 ### 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amelhasic23&show_icons=true&theme=radical&count_private=true&cache_seconds=86400" alt="Amel's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amelhasic23&theme=radical" alt="GitHub Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amelhasic23&layout=compact&theme=radical" alt="Most Used Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=amelhasic23&layout=compact&theme=radical" alt="Most Used Languages" />
 </p>
 
 <p align="center">
@@ -97,4 +97,5 @@
 ---
 
 🚀 *Always learning and working on exciting new projects. Let's build something great together!*
+
 
